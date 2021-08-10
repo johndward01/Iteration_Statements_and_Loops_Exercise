@@ -43,7 +43,7 @@ namespace Iteration_Statements_and_Loops_Exercise_01_Answers
 
             AddSpaces();
 
-            // TODO: Create a while loop that prints out all the nums inside numbers
+            // TODO: Create a while loop that prints out all the nums inside numbers list to the console
             var index = 0;
             while (numbers[index] != numbers[numbers.Count - 1])
             {
