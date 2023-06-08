@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Iteration_Statements_and_Loops_Exercise_01_Answers
+namespace Iteration_Statements_and_Loops_Exercise_01
 {
     class Program
     {
